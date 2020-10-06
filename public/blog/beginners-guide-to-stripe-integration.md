@@ -212,4 +212,4 @@ There's also products that will do the *whole* process for you, in particular [Q
 
 ## Final notes
 
-Hopefully you're now armed with the essential steps to start taking money on the web using Stripe. Again, all the [source code](https://github.com/remy/stripe-tutorial) is available and a <a href="https://stripe-demo.isthe.link" rel="nofollow">live instance is online</a> for you to try out and test.
+Hopefully you're now armed with the essential steps to start taking money on the web using Stripe. Again, all the [source code](https://github.com/remy/stripe-tutorial) is available and a <a href="https://stripe-demo.isthe.link" rel="nofollow">live instance WAS online</a> -> not anymore:( for you to try out and test.
